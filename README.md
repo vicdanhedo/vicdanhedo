@@ -2,6 +2,7 @@
 
 💻 Actualmente trabajo en mi propio negocio, donde me desempeño en la **operación diaria, administración y logística**.  
 🌱 Me encuentro perfeccionando mis habilidades en **Python** y **SQL**, además de manejar con soltura herramientas como **Tableau, Microsoft, Adobe, Google y muchas más**.  
+📦 Actualmente estoy aprendiendo sobre **Supply Chain Management** para mejorar mis conocimientos en procesos de logistica y de análisis de datos.  
 🚀 Estoy en busca de un **cambio de aires** para enfrentar **nuevos retos profesionales**.  
 
 ---
@@ -18,8 +19,8 @@
 ---
 
 ## 📊 Mis estadísticas en GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vicdanhedo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicdanhedo&layout=compact&theme=radical)  
 
 ---
 
