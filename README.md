@@ -25,4 +25,4 @@
 ---
 
 ## 🌐 Conecta conmigo  
-[![LinkedIn](www.linkedin.com/in/victordanielhernandez-dataanalyst)
+[![LinkedIn](https://www.linkedin.com/in/victordanielhernandez-dataanalyst/?locale=es_ES)
